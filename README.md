@@ -1,4 +1,8 @@
-### Hi there 👋
+
+- Twitter: [@hackshen](https://twitter.com/)
+- Blog: [https://hackshen.com](https://hackshen.com)
+
+![Hshen](https://komarev.com/ghpvc/?username=hackshen)
 
 <!--
 **hackshen/hackshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
