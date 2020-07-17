@@ -2,8 +2,7 @@
 - Twitter: [@hackshen](https://twitter.com/)
 - Blog: [https://hackshen.com](https://hackshen.com)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/hackshen/hackshen)
-
+[![](https://enb5vjhct2jfisp.m.pipedream.net)](https://rushter.com/blog/github-profile-markdown/)
 <!--
 **hackshen/hackshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
